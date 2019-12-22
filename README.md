@@ -1,4 +1,4 @@
-# The “blocks” behindblockbusters
+# The “blocks” behind blockbusters
 Examining metadata on 5,000 movie releases
 Ryan Fitzpatrick 
 MSDS 696
