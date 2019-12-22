@@ -21,8 +21,8 @@ How do increases/decrease in numerical variables like budget, popularity, vote c
 
 In terms of methodology and scope, this project will leverage a variety of data science techniques including but not limited:
 * Supervised Learning
-*   Linear regression - modeling relationship between budget, rating and other variables scalar response (revenue)
-*  Random forest decision trees – evaluate feature importance on revenue/critical reception e.g. voting score
+  * Linear regression - modeling relationship between budget, rating and other variables to scalar response (revenue)
+  * XGboost – evaluate feature importance on revenue
 *	Data visualization – EDA and statistical tests
 *	Feature engineering – create dummy variables for movie genres, binary variables for highest paid actors, etc…
 *	Text analytics for creating word clouds by genre
