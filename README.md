@@ -1,12 +1,11 @@
 # The “blocks” behind blockbusters
 Examining metadata on 5,000 movie releases
-Ryan Fitzpatrick 
-MSDS 696
+
 
 # Summary
 As a long time movie buff, I’ve always been interested in the finer, more granular details behind films like: who was in charge of stage design for “Saving Private Ryan?”, what genre would “The Big Short” fall under, a comedy or a drama? What did “Avatar” end up grossing at the box office?.  Thousands of google searches later, my insatiable appetite for movie related facts and statistics has not waned.  That said, I want to take my curiosity one step further by attempting to understand what movie factors (e.g. cast, director, budget etc…) impact a film’s success at the box office and among critics. In addition to answering this foundational question, this project will ask additional questions of the data including (but not limited to): 
 
-Do specific movie genres have more weight/predictive power
+Do specific movie genres have more weight/predictive power?
 
 Are directorial debuts less likely to be critically received (popularity score)? How do budgets compare?
 
